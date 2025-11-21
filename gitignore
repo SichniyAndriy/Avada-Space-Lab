@@ -1,0 +1,62 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.iml
+.project
+.classpath
+.settings/
+
+# Build and Dependency Directories
+node_modules/
+dist/
+build/
+target/
+out/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs and Databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Environment and Configuration
+.env
+.env.local
+.env.*.local
+*.properties
+application.yml
+application.yaml
+application-*.yml
+application-*.yaml
+
+# Package Files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Testing and Coverage
+coverage/
+.coverage
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*$py.class
